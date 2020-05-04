@@ -1,2 +1,2 @@
 # medikap-www
-Medikap - landing page
+MEDIKAP - landing page
